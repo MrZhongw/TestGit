@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Jenkins!test CI! </h2>
+<h2>Hello Jenkins!Test CI! </h2>
 </body>
 </html>
